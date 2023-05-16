@@ -1,4 +1,5 @@
-[
+{
+	"cards": [
 	{
 		"cardNumber": "4123456789123999",
 		"expirationDate": "03/23",
@@ -14,4 +15,5 @@
 		"expirationDate": "08/26",
 		"cardHolderName": "John Doe"
 	}
-]
+	]
+}
